@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "terms and condition checking tool output",
+    "version": "1.0",
+    "description": "Shows result of terms and conditions",
+    "action":{
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab", "storage"]   
+}

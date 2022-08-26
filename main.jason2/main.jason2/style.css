@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+    width: 300px;
+    height: 300px;
+    background: rgb(26, 83, 94);
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button {
+    margin-top: 20px;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 0 40px;
+    background: salmon;
+    border: none;
+}
+button:hover{
+    background-color: brown;
+}
